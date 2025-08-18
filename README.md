@@ -4,7 +4,7 @@ Overview
 This project involves SQL-based data analysis on a music store database to extract insights about employees, customers, invoices, and music preferences. The queries analyze various aspects such as employee hierarchy, customer spending, invoice distributions, and music track details.
 Key Analyses Performed
 
-##Insights
+## Insights
 Senior-Most Employee: Identified the employee with the highest job title level.
 Invoice Distribution by Country: Determined the country with the most invoices.
 Top Invoice Values: Extracted the top three highest invoice totals.
