@@ -1,6 +1,6 @@
 # Music-Store-Data-Analysis
 
-##Music Store Data Analysis Project
+## Music Store Data Analysis Project
 Overview
 This project involves SQL-based data analysis on a music store database to extract insights about employees, customers, invoices, and music preferences. The queries analyze various aspects such as employee hierarchy, customer spending, invoice distributions, and music track details.
 Key Analyses Performed
